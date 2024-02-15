@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Doonkung
-- 👀 I’m interested in React, Python, Node, Spring, Golang
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m @Dhulkung
+- 👀 I’m interested in React, Python, Node, Spring, Golang, ML, AI
+- 🌱 I’m currently learning everything i want.
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me Na ja
 
